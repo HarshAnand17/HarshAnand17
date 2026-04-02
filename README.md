@@ -46,7 +46,7 @@ I am Harsh Anand,  a full-stack developer with good problem solver in DSA in C++
 ---
 
   ## 🏆 Achievements
-- 🧠 Solved **550+ problems** on [LeetCode]https://leetcode.com/u/Harsh_1118/ 
+- 🧠 Solved **550+ problems** on [LeetCode](https://leetcode.com/u/Harsh_1118/) 
 - 💡 Solved **150+ problems** on [GeeksforGeeks][(https://auth.geeksforgeeks.org/user/your-username/)](https://www.geeksforgeeks.org/profile/harahantelb?tab=activity)
 
 ---
