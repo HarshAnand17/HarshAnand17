@@ -8,10 +8,18 @@ I am Harsh Anand,  a full-stack developer with good problem solver in DSA in C++
 ## 🚀 Skills
 
 ### 💻 Full Stack Web Development
-- **Frontend:** HTML, CSS, JavaScript.
+- **Frontend:** HTML, CSS, JavaScript, React.js.
 - **Backend:** Node.js, Express.js.
 - **Databases:** MongoDB, MySQL.
   
+  ---
+  
+## 🌐 Languages
+- C++
+- JavaScript
+- SQL
+
+---
 
 ### 🧠 Data Structures & Algorithms
 - Strong knowledge of:
@@ -21,6 +29,22 @@ I am Harsh Anand,  a full-stack developer with good problem solver in DSA in C++
 
 ---
 
+## 🛠️ Tools
+- Git
+- VS Code
+- Postman
+
+---
+
+  ## 📚 Coursework
+- Data Structures and Algorithms  
+- Object-Oriented Programming  
+- Operating Systems  
+- Database Management System  
+- Computer Networks
+
+---
+  
 ## 🎓 Education
 **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
 *NIT Patna (2022 – 2026)*  
