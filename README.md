@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 Welcome to my portfolio!  
-I am Harsh Anand,  a full-stack developer with strong DSA skills, experienced in building scalable MERN applications with secure authentication and efficient UI/UX.
+I am Harsh Anand,  a full-stack developer with good problem solver in DSA in C++, experienced in building scalable MERN applications with secure authentication and efficient UI/UX.
 
 ---
 
