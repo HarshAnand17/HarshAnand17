@@ -21,14 +21,6 @@ I am Harsh Anand,  a full-stack developer with good problem solver in DSA in C++
 
 ---
 
-/**### 🧠 Data Structures & Algorithms
-- Strong knowledge of:
-  - Arrays, Linked Lists, Trees, Graphs  
-  - Dynamic Programming  
-- Good understanding of **time & space complexity** and problem-solving  **/
-
----
-
 ## 🛠️ Tools
 - Git
 - VS Code
